@@ -1,6 +1,6 @@
 # Visualizer
-A website to demonstrates algorithms like sorting searching dijkstra algorithm
-
+Implimented visual representation of various Algorithm such as Linear Search, Binary Search, Selection Search, Insertion Search, Bubble Sort, Dijkstra Shortest Path.
+USed vis.s library to implement Graphs and Canvas for showing # Sorting and # Searching Algorithm.
 # Searching
 ![](https://user-images.githubusercontent.com/65273880/105349776-34ccc800-5c10-11eb-9c44-cf1a8c83840e.png)
 
